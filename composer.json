@@ -1,0 +1,23 @@
+{
+    "name": "350org/dashboard-widgets-order-3p",
+    "description": "Fork of the legacy plugin Dashboard Widgets Order",
+    "version": "1.0.0",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/350org/dashboard-widgets-order-3p",
+    "authors": [
+        {
+            "name": "wpmudev",
+            "homepage": "https://wpmudev.com/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "extra": {
+        "installer-name": "dashboard-widgets-order"
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
